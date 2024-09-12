@@ -1,6 +1,10 @@
 [
   {
-  "package": "netmem",
-  "url": "https://github.com/anespinosa/netmem"
+    "package": "netmem",
+    "url": "https://github.com/anespinosa/netmem"
+  },
+  {
+    "package": "classicnets",
+    "url": "https://github.com/anespinosa/classicnets"
   }
 ]
