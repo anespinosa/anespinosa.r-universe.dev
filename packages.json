@@ -1,14 +1,10 @@
-{
-  "packages": [
-    {
-      "name": "netmem",
-      "repo": "anespinosa/netmem",
-      "branch": "main"
-    },
-    {
-      "name": "classicnets",
-      "repo": "anespinosa/classicnets",
-      "branch": "main"
-    }
-  ]
-}
+[
+  {
+    "package": "netmem",
+    "url": "https://github.com/anespinosa/netmem"
+  },
+  {
+    "package": "classicnets",
+    "url": "https://github.com/anespinosa/classicnets"
+  }
+]
